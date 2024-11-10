@@ -332,6 +332,9 @@ a{
   background-image: url(./Images/projects/Project6.png);
   left: 5%;
 }
+#project7 {
+  background-image: url(./Images/projects/Project7.png);
+}
 
 .projectCard {
   width: 80%;
